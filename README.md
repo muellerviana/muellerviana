@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hello, World. I'm Müller! 👋
 
+<div>
+  <a href="https://github.com/muellerviana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muellerviana&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muellerviana&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+  
+  
+  🌱 I’m currently learning Ruby on Rails 
+  
 <!--
-**muellerviana/muellerviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Change the appearance with https://github.com/anuraghazra/github-readme-stats 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

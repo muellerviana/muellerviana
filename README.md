@@ -1,5 +1,7 @@
 ### Hello, World. I'm Müller! 👋
 
+I'm a Ruby on Rails engineer.
+
 <div>
   <a href="https://github.com/muellerviana">
   
@@ -7,7 +9,7 @@
 </div>
   
   
-  🌱 I’m currently learning Ruby on Rails 
+ 
   
 <!--
  

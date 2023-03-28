@@ -1,6 +1,6 @@
 ### Hello, World. I'm Müller! 👋
 
-Ruby on Rails engineer.
+I'm a Full Stack Ruby on Rails engineer.
 
 <div>
   <a href="https://github.com/muellerviana">

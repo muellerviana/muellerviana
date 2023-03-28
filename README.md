@@ -1,6 +1,6 @@
 ### Hello, World. I'm Müller! 👋
 
-I'm trying to be a Ruby on Rails engineer.
+Ruby on Rails engineer.
 
 <div>
   <a href="https://github.com/muellerviana">
